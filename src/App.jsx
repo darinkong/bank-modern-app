@@ -1,6 +1,6 @@
 import styles from "./style";
 import {
-  Navbar,
+  NavBar,
   Billing,
   CardDeal,
   Business,
